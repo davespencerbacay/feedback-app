@@ -35,7 +35,6 @@ const FeedbackForm = ({ handleAdd }) => {
       handleAdd(newFeedback);
       setText("");
       setBtnDisabled(true);
-      setRating("0");
     }
   };
   return (
