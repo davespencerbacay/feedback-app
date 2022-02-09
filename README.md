@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with Feedback App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### `version: 1.0.0`
 
 ## Available Scripts
 
